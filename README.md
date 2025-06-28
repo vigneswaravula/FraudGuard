@@ -292,6 +292,14 @@ kubectl port-forward svc/fraudguard-frontend 8080:80
 
 **FraudGuard Enterprise** - Protecting your business with AI-powered fraud detection at enterprise scale.
 
+## 🚀 Live Demo
+
+Experience the full functionality of the Anomaly Detection in Financial Transactions platform with real-time fraud alerting, API access, account management, and more.
+
+👉 [**Click here to explore the live app**](https://gleeful-smakager-397d8a.netlify.app)
+
+
+
 ## Screenshots
 <img src="./screenshots/1.png" width="100%" />
 <img src="./screenshots/2.png" width="100%" />
